@@ -1,0 +1,22 @@
+body {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+   
+}
+div {
+    height:50px;
+    width:50px;
+    background-color: grey;
+    border: 2px solid black;
+}
+
+main {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height:220px;
+    width:220px;
+}
